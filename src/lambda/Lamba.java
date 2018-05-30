@@ -9,7 +9,7 @@ public class Lamba {
     public static void main(String[] args) {
 
 
-
+//cos tam
 
     }
     public static void showMe(Function<String, String >nameAtor, String name){
