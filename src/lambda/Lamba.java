@@ -10,7 +10,7 @@ public class Lamba {
 
 
 //cos tam
-
+//ale vvh
     }
     public static void showMe(Function<String, String >nameAtor, String name){
         System.out.println(nameAtor.apply(name));
